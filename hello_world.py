@@ -6,4 +6,5 @@ Part B
 This program prints Hello World
 """
  
-print("Hello World")
+print("Hello World!")
+print("I'm excited to code!")

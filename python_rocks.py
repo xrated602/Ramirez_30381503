@@ -6,4 +6,4 @@ Part B
 This program prints Python Rocks!
 """
 
-print("Python Rocks!")
+print("I love Python!")
